@@ -72,6 +72,7 @@ ul { text-align: left; }
 .clone > a { background: transparent; background-image: none;}
 .postbody .current { background: transparent !important;}
 .tinypic { position:relative; width:200px; height: 30px; display:block;}
+.submit-mark { right:5px !important; }
 
 #smiley-box > a > img { max-height:40px; width:auto !important; }
 .alertCount > a { color: #DD7C00; animation-name: alert;     animation-duration: 2s;
